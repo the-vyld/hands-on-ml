@@ -1,0 +1,1 @@
+This is a repository which contains all unsolved and solved problems in Aurelien Geron's book 'Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow'. Keeping this for my own correspondence and to track the progress.
